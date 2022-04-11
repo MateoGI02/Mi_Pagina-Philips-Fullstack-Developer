@@ -1,0 +1,28 @@
+
+.navbar {
+    background-color: black;
+    color: white;
+}
+
+#Presentacion {
+    background-color: aquamarine;
+    color: white;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#CV {
+    background-color: skyblue;
+    color: white;
+}
+
+.texto {
+    font-size: 20px;
+}
+
+.marca {
+    text-align: right;
+}
